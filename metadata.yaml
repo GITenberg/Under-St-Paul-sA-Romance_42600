@@ -1,0 +1,34 @@
+_repo: Under-St-Paul-sA-Romance_42600
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dowling, Richard
+    aliases:
+    - Fall, Marcus
+    - Dowling, R. (Richard)
+    birthdate: 1846
+    deathdate: 1898
+    gutenberg_agent_id: '41234'
+    url: http://www.gutenberg.org/2009/agents/41234
+description: Irish-born author Richard Dowling spent a significant portion of his
+  life in London, and that remarkable city played a major role in many of Dowling's
+  works. Under St. Paul's tells the tale of an unlikely romance that blooms between
+  a pair of headstrong, eccentric lovers in the shadow of the massive and stately
+  St. Paul's Cathedral in London.
+gutenberg_issued: '2013-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- !lcsh 'St. Paul''s Cathedral (London, England) -- Fiction'
+title: 'Under St Paul''s: A Romance'
+url: http://www.gutenberg.org/ebooks/42600
